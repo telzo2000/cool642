@@ -8,9 +8,12 @@ PCBが２枚あります。表裏を確認して、これからの作業は、�
 <br>
 
 表面
+<br>
 ![](img/img00007.jpg)
 
+
 裏面
+<br>
 ![](img/img00006.jpg)
 
 ### 1 Diode soldering
