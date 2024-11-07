@@ -3,7 +3,7 @@
 
 ![](img/img00003.jpg)
 
-## What is cool640lp?
+## What is cool642?
 
 cool642 is ortholiner and splite keyboards.
 <br>
