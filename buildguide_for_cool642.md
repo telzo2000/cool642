@@ -176,6 +176,7 @@ For switch plates created by 3D printing, if the frame into which the switch is 
 
 <br>
 
+![](img/img00008.jpg)
 
 ### 9 Fix the bottom case with screws
 
