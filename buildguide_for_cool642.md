@@ -138,9 +138,9 @@ In this case, please install a TRRS jack. Although we are handling the wiring, w
 ### 6a Install firmware （BLE Micro Pro）
 
 
-Here is an [article](https://sizu.me/m_ki/posts/01s8uea4u7x8) on how to do it.
+Here is an [article](https://sizu.me/m_ki/posts/4x8nhz6n44o1) on how to do it.
 <br>
-ここにやり方の[記事](https://sizu.me/m_ki/posts/01s8uea4u7x8)があります。
+ここにやり方の[記事](https://sizu.me/m_ki/posts/4x8nhz6n44o1)があります。
 <br>
 
 
