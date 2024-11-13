@@ -107,6 +107,12 @@ Insert the BLE Micro Pro into the con-through so that the side with the parts on
 <br>
  BLE Micro Proの部品が載っている方がPCBに面するように、コンスルーに差し込んでください。もし、 BLE Micro Proがコンスルーから外れやすいときははんだ付けをお勧めします。ただし、3Dプリンタのボトムプレートの構造上、外れにくいと思うので、はんだ付け不要です。
 <br>
+When using a 12-pin con-through, insert it into the 12 holes counting from the USB side of the BLE Micro Pro.
+<br>
+コンスルー12ピンを使用するとき、BLE Micro ProのUSB側から数えて12箇所分の穴に差し込んでください。
+<br>
+
+
 
 ### 5b Pro Micro
 If you are not interested in wireless connectivity, you can keep the price low by using the pro micro.
