@@ -112,6 +112,9 @@ When using a 12-pin con-through, insert it into the 12 holes counting from the U
 コンスルー12ピンを使用するとき、BLE Micro ProのUSB側から数えて12箇所分の穴に差し込んでください。
 <br>
 
+![](img/img00009.jpg)
+![](img/img00010.jpg)
+![](img/img00011.jpg)
 
 
 ### 5b Pro Micro
