@@ -110,9 +110,9 @@ PCBの裏面から差し込んで、表面をはんだ付けします。仮固�
 
 
 ### 5a BLE MIcro Pro
-Please prepare two con-through (12 pin 2.5mm) instead of the pin header included with BLE Micro Pro.
+Please prepare two con-through (12 pin 3.5mm) instead of the pin header included with BLE Micro Pro.
 <br>
-BLE Micro Pro付属のピンヘッダではなく、コンスルー（12ピン 2.5mm）を２つ用意してください。
+BLE Micro Pro付属のピンヘッダではなく、コンスルー（12ピン 3.5mm）を２つ用意してください。
 
 <br>
 There is a small hole in the side of the conthru. Insert it into the PCB, being careful to orient the holes the same way.
