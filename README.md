@@ -57,13 +57,13 @@ https://github.com/telzo2000/cool642/blob/main/buildguide_for_cool642.md
 |7|Screw<br>ネジ|16|M2 4mm|DIY shop|10本200円程度|
 |8|Spacer<br>スペーサー|8|M2 3mm|DIY shop|10本400円程度|
 |9|Conthrou<br>コンスルー|4|3.5mm|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)|１個400円程度|
-|11|Keyswitch<br>キースイッチ|42|お好みで|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)|１個100程度|
-|12|Keycap<br>キーキャップ|42|1U|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)||
-|13|ボタン電池ホルダー|2|1632|[アリエク](https://ja.aliexpress.com/item/32744211091.html?spm=a2g0o.order_list.order_list_main.10.2aa6585aqrECYV&gatewayAdapt=glo2jpn)<br>|100個で900円ほど|
-|14|水平スライドスイッチ|2||[秋月電子](https://akizukidenshi.com/catalog/g/g115370/)|30円|
-|15|チップ積層セラミックコンデンサー |2|100μF6.3V F 3216|[秋月電子](https://akizukidenshi.com/catalog/g/g102151/)|10個入り200円|
+|10|Keyswitch<br>キースイッチ|42|お好みで|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)|１個100程度|
+|11|Keycap<br>キーキャップ|42|1U|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)||
+|12|ボタン電池ホルダー|2|1632|[アリエク](https://ja.aliexpress.com/item/32744211091.html?spm=a2g0o.order_list.order_list_main.10.2aa6585aqrECYV&gatewayAdapt=glo2jpn)<br>|100個で900円ほど|
+|13|水平スライドスイッチ|2||[秋月電子](https://akizukidenshi.com/catalog/g/g115370/)|30円|
+|14|チップ積層セラミックコンデンサー |2|100μF6.3V F 3216|[秋月電子](https://akizukidenshi.com/catalog/g/g102151/)|10個入り200円|
 
-※13,14,15は[遊舎工房の「Primer29/61用電池部品セット（コイン電池」](https://shop.yushakobo.jp/products/5623)が最適。
+※12,13,14は[遊舎工房の「Primer29/61用電池部品セット（コイン電池」](https://shop.yushakobo.jp/products/5623)が最適。
 
 In addition, you will need a USB cable, etc.
 <br>
